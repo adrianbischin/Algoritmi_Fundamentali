@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interclasare_k_siruri", "Interclasare_k_siruri\Interclasare_k_siruri.vcxproj", "{64630FCC-735A-4F35-8C45-6AB65F7DBA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Debug|x64.ActiveCfg = Debug|x64
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Debug|x64.Build.0 = Debug|x64
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Debug|x86.ActiveCfg = Debug|Win32
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Debug|x86.Build.0 = Debug|Win32
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Release|x64.ActiveCfg = Release|x64
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Release|x64.Build.0 = Release|x64
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Release|x86.ActiveCfg = Release|Win32
+		{64630FCC-735A-4F35-8C45-6AB65F7DBA99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689A7136-D641-4B22-B265-F3917CF95132}
+	EndGlobalSection
+EndGlobal
